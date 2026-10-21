@@ -1,0 +1,8 @@
+﻿:root{--c:#2f7d6d;--bg:#f7faf8;--t:#222;--m:#667}
+*{box-sizing:border-box}body{margin:0;font:17px/1.8 "Pretendard","Noto Sans KR",sans-serif;color:var(--t);background:var(--bg)}
+a{color:var(--c);text-decoration:none}header{background:#fff;border-bottom:1px solid #e3ebe7;position:sticky;top:0}
+.w{max-width:860px;margin:0 auto;padding:0 16px}nav{display:flex;gap:18px;align-items:center;height:58px}nav b{font-size:20px;margin-right:auto}
+.hero{background:linear-gradient(135deg,#2f7d6d,#7fc4a8);color:#fff;padding:64px 0;text-align:center}.hero h1{margin:0 0 8px;font-size:32px}
+.card{background:#fff;border-radius:14px;padding:20px;margin:18px 0;box-shadow:0 2px 8px #0001}.card h2{margin:0 0 6px;font-size:20px}.meta{color:var(--m);font-size:14px}
+article h2{background:#eaf5f1;border-left:6px solid var(--c);border-radius:10px;padding:10px 14px;font-size:21px}
+.sum{background:#fff8e1;border-radius:10px;padding:14px 16px}footer{text-align:center;color:var(--m);font-size:14px;padding:32px 0}
