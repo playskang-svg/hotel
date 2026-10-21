@@ -1,4 +1,4 @@
-﻿:root{--c:#2f7d6d;--bg:#f7faf8;--t:#222;--m:#667}
+:root{--c:#2f7d6d;--bg:#f7faf8;--t:#222;--m:#667}
 *{box-sizing:border-box}body{margin:0;font:17px/1.8 "Pretendard","Noto Sans KR",sans-serif;color:var(--t);background:var(--bg)}
 a{color:var(--c);text-decoration:none}header{background:#fff;border-bottom:1px solid #e3ebe7;position:sticky;top:0}
 .w{max-width:860px;margin:0 auto;padding:0 16px}nav{display:flex;gap:18px;align-items:center;height:58px}nav b{font-size:20px;margin-right:auto}
